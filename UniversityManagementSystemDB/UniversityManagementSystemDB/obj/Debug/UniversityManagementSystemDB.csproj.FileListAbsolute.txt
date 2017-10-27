@@ -1,0 +1,6 @@
+H:\.DOT NET\Code\WEB\UniversityManagementSystemDB\UniversityManagementSystemDB\bin\UniversityManagementSystemDB.dll.config
+H:\.DOT NET\Code\WEB\UniversityManagementSystemDB\UniversityManagementSystemDB\bin\UniversityManagementSystemDB.dll
+H:\.DOT NET\Code\WEB\UniversityManagementSystemDB\UniversityManagementSystemDB\bin\UniversityManagementSystemDB.pdb
+H:\.DOT NET\Code\WEB\UniversityManagementSystemDB\UniversityManagementSystemDB\obj\Debug\UniversityManagementSystemDB.csprojResolveAssemblyReference.cache
+H:\.DOT NET\Code\WEB\UniversityManagementSystemDB\UniversityManagementSystemDB\obj\Debug\UniversityManagementSystemDB.dll
+H:\.DOT NET\Code\WEB\UniversityManagementSystemDB\UniversityManagementSystemDB\obj\Debug\UniversityManagementSystemDB.pdb
